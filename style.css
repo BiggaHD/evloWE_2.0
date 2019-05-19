@@ -1,0 +1,137 @@
+body {
+  margin: 0;
+  font: normal 75% Arial, Helvetica, sans-serif;
+}
+canvas {
+  display: block;
+}
+/* ---- particles.js container ---- */
+
+/* html, body {
+  line-height: 1.5;
+} */
+
+#particles-js {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: #cdafed;
+  background-image: url("");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+/* * {
+  box-sizing: border-box;
+} */
+
+body {
+  font-size: 1rem;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: Poppins;
+}
+
+p {
+  font-family: Roboto;
+}
+
+footer {
+  color: rgb(119, 119, 119);
+  text-align: center;
+  background: rgb(34, 34, 34);
+  padding: 1.4rem;
+  display: block;
+}
+
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
+
+.navbar-default {
+  background: #fff;
+  border: 0;
+  font-family: Poppins;
+}
+
+.navbar-brand {
+  font-size: 20px;
+  color: #000 !important;
+  font-weight: bold;
+}
+
+#showcase h1 {
+  font-size: 50px;
+  margin-bottom: 20px;
+}
+
+#showcase img {
+  width: 90%;
+  margin-left: 60px;
+}
+
+#showcase .showcase-right {
+  margin-top: 90px;
+}
+
+#testimonial {
+  background: #f1f1f1;
+  padding: 50px 0 30px 0;
+  text-align: center;
+  margin-top: 40px;
+}
+
+#testimonial p {
+  font-size: 1.6rem;
+  font-family: "Josefin Sans";
+  color: #000;
+}
+
+#testimonial p.customer {
+  font-size: 1.2rem;
+  color: #666;
+}
+
+#info1 .info-right {
+  margin-top: 90px;
+}
+
+#info2 {
+  margin: 20px 0 60px 0;
+}
+
+#info3 {
+  margin: 20px 0 60px 0;
+}
+
+#contact {
+  background: url(./j1.jpg);
+  padding: 40px;
+  color: #fff;
+  border-top: #333 7px solid;
+  border-bottom: #333 7px solid;
+}
+
+.testimonial_subtitle {
+  font-family: "Poppins", sans-serif;
+  color: #0aaa7a;
+  font-size: 12px;
+}
+.testimonial_btn {
+  background-color: #373d4b !important;
+  color: #fff !important;
+}
+.seprator {
+  height: 2px;
+  width: 56px;
+  background-color: #0aaa7a;
+  margin: 7px 0 10px 0;
+}
